@@ -1,20 +1,10 @@
-document.write("Hello World");
-Developer dev = new Developer(Suman Singh);
-const Sagar = {
-    pronouns: "he" | "his",
-    status: Student,
-    technologies: {
-        frontEnd: [HTML, CSS, SASS, Javascript],
-        backEnd: [Node.js, Express.js, Mongoose.js, MongoDB, Python],
-        libraries: [Bootstrap, JQuery]
-    },
-    editors: [VS Code, Vim, PyCharm, Nano],
-    learning: [Kali Linux],
-    contact: 6969sagarsharma@gmail.com
-};
+- 👋 Hi, I’m @sumankumarsingh99
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
 
-if(succeed == false){
-    tryagain();
-}else{
-    party();
-};
+<!---
+sumankumarsingh99/sumankumarsingh99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
