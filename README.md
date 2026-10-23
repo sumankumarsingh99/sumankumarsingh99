@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumankumarsingh99&label=Profile%20views&color=0e75b6&style=flat" alt="Sagar Sharma" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrinalsharma1" alt="mrinalsharma1" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumankumarsingh99" alt="sumankumarsingh99" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sumankumarsingh99" target="blank"><img src="https://img.shields.io/twitter/follow/sumankumarsingh99?logo=twitter&style=for-the-badge" alt="sumankumarsingh99" /></a> </p>
 
@@ -21,7 +21,7 @@
 
 - 👯 I’m looking to collaborate on **Linkedin**
 
-- 🤝 I’m looking for help with **Full Stack Developer**
+- 🤝 I’m looking for help with **Conversational AI Engineer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sumankumarsingh99/sumankumarsingh99](https://github.com/sumankumarsingh99/sumankumarsingh99)
 
@@ -32,7 +32,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sumankumarsingh99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sumankumarsingh99" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/sagar-sharma-697a2519b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/mrinalsharma789" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/sumankumarsingh99-697a2519b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/sumankumarsingh99" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/15155915/sumankumarsingh99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/15155915/sumankumarsingh99" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/mrinalk.11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/mrinalk.11" height="30" width="40" /></a>
 <a href="https://instagram.com/mrinal___sharma1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mrinal___sharma1" height="30" width="40" /></a>
@@ -46,7 +46,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumankumarsingh99&show_icons=true&locale=en&layout=compact" alt="Sagar Sharma" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumankumarsingh99&show_icons=true&locale=en" alt="Sagar Sharma" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumankumarsingh99&show_icons=true&locale=en" alt="Suman Singh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumankumarsingh99&" alt="sumankumarsingh99" /></p>
 
